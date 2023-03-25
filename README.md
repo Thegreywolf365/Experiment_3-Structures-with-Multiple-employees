@@ -10,3 +10,6 @@
 ## B. To create a data structure to accept user input with details for multiple employees and associate the correct data with the employee
 
 ### Code:
+<img width="783" alt="image" src="https://user-images.githubusercontent.com/26576979/227697852-abfd73b5-ddd5-4dd4-92e0-67d4f92f356e.png">
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/26576979/227697861-bffce739-bca3-45ab-981e-3297420dc02c.png">
+
