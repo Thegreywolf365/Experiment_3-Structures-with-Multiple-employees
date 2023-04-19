@@ -1,4 +1,13 @@
 # Experiment_3-Structures-with-Multiple-employees
+
+## Algorithm:
+1. Start
+2. Define the structure and the associated data, i.e. name, ID, Year, Salary, Gender
+3. Define number of employees
+4. Scan for employee details
+5. Store the details in the appropriate substructure.
+6. Retrieve the input data now associated, and print
+7. Stop
 ## A. To create a data structure to accept user input with employee details and associate with that employee
 
 ### Code: 
